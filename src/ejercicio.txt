@@ -1,0 +1,6 @@
+1. Agregue un nuevo elemento al menú de navegación llamado "Iniciar sesión"
+2. Agregue un nuevo componente de clase llamado "Iniciar sesión"
+3. Utilice el estado del componente para realizar un seguimiento de las credenciales del usuario (nombre de usuario y contraseña)
+4. Agregue un formulario de inicio de sesión con campos para "nombre de usuario" y "contraseña".
+5. Agregue un botón para enviar el formulario y verificar las credenciales del usuario.
+6. Mostrar un mensaje de error si las creden
